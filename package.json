@@ -16,5 +16,5 @@
   "dependencies": {
     "json-server": "^0.17.3"
   },
-  "homepage":"https://parque-api.netlify.app/db.json"
+  "homepage":"/db.json"
 }
