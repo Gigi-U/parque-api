@@ -1,0 +1,115 @@
+{
+    "data": [
+      {
+        "id":0,
+        "img": "/assets/img/eventImages/music01.png",
+        "eventName": "MUSICA A CIELO ABIERTO",
+        "date": "02/06/2023",
+        "location": "Santa Fe",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis harum tempora provident facere.",
+        "category": "Musica",
+        "day": "SABADO",
+        "map":""
+      },
+      {
+        "id":1,
+        "img": "https://raw.githubusercontent.com/Gigi-U/proyectoIntegrador/main/assets/img/eventImages/kids01.png",
+        "eventName": "FESTIVAL DE VERANO",
+        "date": "02/03/2024",
+        "location": "GBA",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis harum tempora provident facere.",
+        "category": "Niños",
+        "day": "SABADO",
+        "map":""
+      },
+      {        
+        "id":2,
+        "img": "https://github.com/Gigi-U/proyectoIntegrador/blob/main/assets/img/eventImages/gastro01.png?raw=true",
+        "eventName": "PICNIC PRIMAVERAL",
+        "date": "02/12/2023",
+        "location": "CABA",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis harum tempora provident facere.",
+        "category": "Gastro",
+        "day": "DOMINGO",
+        "map":""
+      },
+      {        
+        "id":3,
+        "img": "/assets/img/eventImages/amusement01.png",
+        "eventName": "PARQUE DE DIVERSIONES",
+        "date": "02/10/2023",
+        "location": "Cordoba",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis harum tempora provident facere.",
+        "category": "Ferias",
+        "day": "VIERNES",
+        "map":""
+      },
+      {        
+        "id":4,
+        "img": "/assets/img/eventImages/sports01.png",
+        "eventName": "MEDIA MARATON",
+        "date": "02/03/2024",
+        "location": "Tandil",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis harum tempora provident facere.",
+        "category": "Deportes",
+        "day": "MARTES",
+        "map":""
+      },
+      {        
+        "id":5,
+        "img": "",
+        "eventName": "",
+        "date": "",
+        "location": "",
+        "description": "",
+        "category": "Musica",
+        "day": "",
+        "map":""
+      },
+      {        
+        "id":6,
+        "img": "",
+        "eventName": "",
+        "date": "",
+        "location": "",
+        "description": "",
+        "category": "Niños",
+        "day": "",
+        "map":""
+      },
+      {        
+        "id":7,
+        "img": "https://github.com/Gigi-U/proyectoIntegrador/blob/main/assets/img/eventImages/gastro02.png",
+        "eventName": "",
+        "date": "",
+        "location": "",
+        "description": "",
+        "category": "Gastro",
+        "day": "",
+        "map":""
+      },
+      {        
+        "id":8,
+        "img": "",
+        "eventName": "",
+        "date": "",
+        "location": "",
+        "description": "",
+        "category": "Ferias",
+        "day": "",
+        "map":""
+      },
+      {        
+        "id":8,
+        "img": "",
+        "eventName": "",
+        "date": "",
+        "location": "",
+        "description": "",
+        "category": "Deportes",
+        "day": "",
+        "map":""
+      }
+    ] 
+}
+    
