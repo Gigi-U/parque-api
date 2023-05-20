@@ -2,7 +2,7 @@
     "data": [
       {
         "id":0,
-        "img": "/assets/img/eventImages/music01.png",
+        "img": "https://raw.githubusercontent.com/Gigi-U/proyectoIntegrador/main/assets/img/eventImages/music01.png",
         "eventName": "MUSICA A CIELO ABIERTO",
         "date": "02/06/2023",
         "location": "Santa Fe",
@@ -24,7 +24,7 @@
       },
       {        
         "id":2,
-        "img": "https://github.com/Gigi-U/proyectoIntegrador/blob/main/assets/img/eventImages/gastro01.png?raw=true",
+        "img": "https://raw.githubusercontent.com/Gigi-U/proyectoIntegrador/main/assets/img/eventImages/gastro01.png",
         "eventName": "PICNIC PRIMAVERAL",
         "date": "02/12/2023",
         "location": "CABA",
@@ -35,7 +35,7 @@
       },
       {        
         "id":3,
-        "img": "/assets/img/eventImages/amusement01.png",
+        "img": "https://raw.githubusercontent.com/Gigi-U/proyectoIntegrador/main/assets/img/eventImages/amusement01.png",
         "eventName": "PARQUE DE DIVERSIONES",
         "date": "02/10/2023",
         "location": "Cordoba",
@@ -46,7 +46,7 @@
       },
       {        
         "id":4,
-        "img": "/assets/img/eventImages/sports01.png",
+        "img": "https://raw.githubusercontent.com/Gigi-U/proyectoIntegrador/main/assets/img/eventImages/sports01.png",
         "eventName": "MEDIA MARATON",
         "date": "02/03/2024",
         "location": "Tandil",
