@@ -9,11 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/Gigi-U/parque-api.git)"
+    "url": "git+https://github.com/Gigi-U/parque-api.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3"
-  }
+  },
+  "homepage":"https://github.com/Gigi-U/parque-api#readme"
 }
